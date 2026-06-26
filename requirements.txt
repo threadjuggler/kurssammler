@@ -1,0 +1,2 @@
+ccxt
+psycopg2-binary
